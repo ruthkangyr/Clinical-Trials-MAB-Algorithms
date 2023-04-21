@@ -1,4 +1,4 @@
-# BT4014
+# Clinical Trials using MAB Algorithms
 In this project, we focus on performing acute ischemic stroke trials using MAB solutions. We aim to investigate the following: 
 * Which treatment method is the best for treating acute ischemic stroke?
 * As compared to Randomised Treatment Assignments, are MAB algorithms more effective in giving a higher cumulative reward for the best treatment method?
